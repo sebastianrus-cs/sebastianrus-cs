@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sebastianrus-cs
+- 👋 Hi, I’m @sebastianrus-cs (Sebi)
 
 <!---
 sebastianrus-cs/sebastianrus-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
